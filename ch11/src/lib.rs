@@ -14,6 +14,7 @@ mod tests
 {
 	#[test]
         fn panic_case(){
+		// do not edit
                 panic_when_num_is_bigger(10, 11);
                 panic_when_num_is_bigger(0.5, 0.9);
                 panic_when_num_is_bigger(-5, -11);
