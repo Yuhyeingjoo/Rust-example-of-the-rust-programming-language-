@@ -1,6 +1,7 @@
 /***** CH11_1 Problem
 1. Complete panic_when_num_is_bigger in a form of the test can be perfomed.
 2. Make this panic_case to pass the test "should_panic(expect"")"  
+*****/
 pub fn panic_when_num_is_bigger()
 {
                if num >num2{
